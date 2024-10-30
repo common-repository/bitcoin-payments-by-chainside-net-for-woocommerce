@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-20 17:13+0200\n"
+"PO-Revision-Date: 2020-02-21 10:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: class-wc-gateway-chainside.php\n"
+
+#: class-wc-gateway-chainside.php:20 class-wc-gateway-chainside.php:21
+#: class-wc-gateway-chainside.php:119 class-wc-gateway-chainside.php:178
+msgid "Chainside Bitcoin Payments"
+msgstr "Chainside Bitcoin Payments"
+
+#: class-wc-gateway-chainside.php:121 class-wc-gateway-chainside.php:197
+msgid ""
+"Accept Bitcoin payments easily in your Magento store. To start configuring "
+"the plugin, first go to business.chainside.net and create a webPOS."
+msgstr ""
+"Accetta pagamenti Bitcoin facilmente dal tuo store Magento. Per cominciare a "
+"configurare il plugin, prima registrati su business.chainside.net e crea un "
+"webPOS."
+
+#: class-wc-gateway-chainside.php:122 class-wc-gateway-chainside.php:198
+msgid "Please set the callback URLS in your webPOS as follows:"
+msgstr "Accertati di inserire i seguenti URL di callback nel tuo webPOS:"
+
+#: class-wc-gateway-chainside.php:123 class-wc-gateway-chainside.php:199
+msgid "Destination URL for confirmation pending need to be set like"
+msgstr "URL attesa di conferma' deve essere impostato come"
+
+#: class-wc-gateway-chainside.php:124 class-wc-gateway-chainside.php:200
+msgid "Destination URL in case of cancellation need to be set like"
+msgstr "URL cancellazione deve essere impostato come"
+
+#: class-wc-gateway-chainside.php:125 class-wc-gateway-chainside.php:201
+msgid "URL where callbacks will be sent need to be set like"
+msgstr "URL callback deve essere impostato come"
+
+#: class-wc-gateway-chainside.php:127
+msgid "Accept Bitcoin payments easily in your WooCommerce store"
+msgstr ""
+"Accetta pagamenti Bitcoin facilmente nel tuo negozio online WooCommerce"
+
+#: class-wc-gateway-chainside.php:206
+msgid "Enable/Disable"
+msgstr "Abilita / Disabilita"
+
+#: class-wc-gateway-chainside.php:208
+msgid "Enable Bitcoin Payments"
+msgstr "Attivo Bitcoin Payments"
+
+#: class-wc-gateway-chainside.php:213
+msgid "Title"
+msgstr "Titolo"
+
+#: class-wc-gateway-chainside.php:215
+msgid "This controls the title which the user sees during checkout."
+msgstr "Questo imposta il titolo che l'utente vede durante il checkout."
+
+#: class-wc-gateway-chainside.php:216
+msgid "Bitcoin Payments by Chainside"
+msgstr "Bitcoin Payments by Chainside"
+
+#: class-wc-gateway-chainside.php:221
+msgid "Description"
+msgstr "Descrizione"
+
+#: class-wc-gateway-chainside.php:223
+msgid "This controls the description which the user sees during checkout."
+msgstr "Questo imposta la descrizione che l'utente vede durante il checkout."
+
+#: class-wc-gateway-chainside.php:224
+msgid "Pay with Bitcoin"
+msgstr "Paga in Bitcoin"
+
+#: class-wc-gateway-chainside.php:227
+msgid "Show Bitcoin logo on frontend"
+msgstr "Mostra il logo Bitcoin nel frontend"
+
+#: class-wc-gateway-chainside.php:233
+msgid "Client ID"
+msgstr "Client ID"
+
+#: class-wc-gateway-chainside.php:235
+msgid "You can find the Client ID in the details of your webPOS"
+msgstr "Puoi trovare il Client ID nei dettagli del tuo webPOS"
+
+#: class-wc-gateway-chainside.php:239
+msgid "Secret"
+msgstr "Secret"
+
+#: class-wc-gateway-chainside.php:241
+msgid "You can find the Secret in the details of your webPOS"
+msgstr "Puoi trovare il Secret nei dettagli del tuo webPOS"
+
+#: class-wc-gateway-chainside.php:245
+msgid "Confirmation requests"
+msgstr "Numero di conferme richieste"
+
+#: class-wc-gateway-chainside.php:248
+msgid "1 confirmation (medium security level, high speed)"
+msgstr "1 conferma (livello di sicurezza medio, velocità alta)"
+
+#: class-wc-gateway-chainside.php:249
+msgid "3 confirmation (high security level, average speed)"
+msgstr "3 conferme (livello di sicurezza alto, velocità media)"
+
+#: class-wc-gateway-chainside.php:250
+msgid "6 confirmation (maximum security level, low speed)"
+msgstr "6 conferme (livello di sicurezza massimo, velocità bassa)"
+
+#: class-wc-gateway-chainside.php:255
+msgid "Sandbox Mode"
+msgstr "Sandbox"
+
+#: class-wc-gateway-chainside.php:282
+msgid "Waiting for payment confirmation."
+msgstr "In attesa di conferma del pagamento."
+
+#: class-wc-gateway-chainside.php:283
+msgid ""
+"Once your payment is confirmed, your order will be processed automatically."
+msgstr ""
+"Una volta confermato il pagamento, l'ordine verrà elaborato automaticamente."
+
+#: class-wc-gateway-chainside.php:298
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: class-wc-gateway-chainside.php:299
+msgid "Support"
+msgstr "Supporto"
+
+#: class-wc-gateway-chainside.php:594
+msgid "Please set your API keys in"
+msgstr "Si prega di impostare le chiavi API"
+
+#: class-wc-gateway-chainside.php:595
+msgid "Chainside Settings"
+msgstr "Impostazione Chainside"
+
+#: class-wc-gateway-chainside.php:613
+msgid "Order paid"
+msgstr "Order paid"
+
+#: class-wc-gateway-chainside.php:628
+msgid "Pay order cancelled"
+msgstr "Ordine di pagamento annullato"
+
+#: class-wc-gateway-chainside.php:653
+#, php-format
+msgid ""
+"Received \"%s BTC\" more than expected. Total of \"%s BTC\" or \"%s %s\"."
+msgstr ""
+"Ricevuto \"%s BTC\" più del previsto. Totale di \"%s BTC\" o \"%s %s\"."
